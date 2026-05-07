@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi there, I'm Khaja Moinuddin 👋
+💻 Passionate Full-Stack Developer in progress, exploring **Java, Python, React, Django, and Web Development**.
+🚀 Currently focused on improving my skills in **DSA, REST APIs, Advanced Java, and Frontend Development**.
+🌱 I enjoy building real-world projects, solving coding problems, and learning modern technologies.
+🤝 Open to collaborating on **open-source projects, web applications, and innovative ideas**.
+⚡ Interested in **Software Development, Problem Solving, and Cloud Technologies**.
+📈 Continuously learning and growing as a developer every day.
+<h1 align="center">Hi 👋, I'm Khaja Sayyed</h1>
+<h3 align="center">💻 Java | Python | React Developer in Progress 🚀</h3>
 
-<!--
-**khajasayyed38/khajasayyed38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎯 Focused on becoming a **Full Stack Developer**
+* 💻 Practicing **Java, Python, and React** regularly
+* 🧠 Learning **Data Structures, Problem Solving & OOP**
+* 🔧 Building small projects and improving coding skills daily
+* 📍 Based in India
+
+---
+
+### 📊 Skill Progress
+
+```text
+Java        █████████░ 90%
+Python      ████████░░ 80%
+Frontend    ██████████ 95%
+DSA         ███████░░░ 70%
+```
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+
+* Java ☕
+* Python 🐍
+* JavaScript ⚡
+
+#### 🌐 Frontend
+
+* React.js ⚛️
+* HTML5 & CSS3 🎨
+
+#### ⚙️ Tools
+
+* Git & GitHub 🔗
+* VS Code 🧑‍💻
+* IntelliJ IDEA 🧠
+
+---
+
+### 📂 What I’m Working On
+
+* 🔹 Java Programs (Strings, Collections, OOP)
+* 🔹 Python Practice (Lists, Functions, Problem Solving)
+* 🔹 React UI Projects
+* 🔹 Improving coding logic daily
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=khajasayyed38\&show_icons=true\&theme=tokyonight)
+
+---
+
+### 🔥 Streak
+
+![Streak](https://streak-stats.demolab.com/?user=khajasayyed38\&theme=tokyonight)
+
+---
+
+### 📌 Top Languages
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khajasayyed38\&layout=compact\&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+
+* GitHub: https://github.com/khajasayyed38
+* LinkedIn: (Add your link)
+
+---
+
+### ⚡ Fun Fact
+
+> I practice coding every day to become better than yesterday 🚀
