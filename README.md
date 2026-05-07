@@ -5,8 +5,7 @@
 🤝 Open to collaborating on **open-source projects, web applications, and innovative ideas**.
 ⚡ Interested in **Software Development, Problem Solving, and Cloud Technologies**.
 📈 Continuously learning and growing as a developer every day.
-<h1 align="center">Hi 👋, I'm Khaja Sayyed</h1>
-<h3 align="center">💻 Java | Python | React Developer in Progress 🚀</h3>
+
 
 ---
 
