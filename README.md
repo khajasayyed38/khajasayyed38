@@ -1,10 +1,10 @@
 # Hi there, I'm Khaja Moinuddin 👋
-💻 Passionate Full-Stack Developer in progress, exploring **Java, Python, React, Django, and Web Development**.
-🚀 Currently focused on improving my skills in **DSA, REST APIs, Advanced Java, and Frontend Development**.
-🌱 I enjoy building real-world projects, solving coding problems, and learning modern technologies.
-🤝 Open to collaborating on **open-source projects, web applications, and innovative ideas**.
-⚡ Interested in **Software Development, Problem Solving, and Cloud Technologies**.
-📈 Continuously learning and growing as a developer every day.
+💻 Passionate Full-Stack Developer in progress, exploring **Java, Python, React, Django, and Web Development**.            
+🚀 Currently focused on improving my skills in **DSA, REST APIs, Advanced Java, and Frontend Development**.               
+🌱 I enjoy building real-world projects, solving coding problems, and learning modern technologies.              
+🤝 Open to collaborating on **open-source projects, web applications, and innovative ideas**.              
+⚡ Interested in **Software Development, Problem Solving, and Cloud Technologies**.                 
+📈 Continuously learning and growing as a developer every day.                        
 
 
 ---
